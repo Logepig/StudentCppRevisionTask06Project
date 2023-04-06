@@ -36,7 +36,7 @@
     <ClCompile Include="task06.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="task07.cpp">
+    <ClCompile Include="taskX.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
